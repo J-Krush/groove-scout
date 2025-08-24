@@ -1,6 +1,6 @@
 {
-  "name": "@once-ui-system/nextjs-starter",
-  "version": "1.1.1",
+  "name": "groove-scout",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
